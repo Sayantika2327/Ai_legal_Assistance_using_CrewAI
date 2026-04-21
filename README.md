@@ -148,7 +148,7 @@ System returns:
 
 ---
 
-## 👩‍💻 Authors
+## 👩‍💻 Author
 
 Sayantika Chowdhury  
-Ishita Shrivastava
+
