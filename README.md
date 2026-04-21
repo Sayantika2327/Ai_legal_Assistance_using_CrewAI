@@ -113,13 +113,18 @@ streamlit run app.py
 
 ---
 
-## 🎬 Demo Video
+## 🎬 Working Demo Video
 
-(Add your demo video link here)
+This video demonstrates the complete workflow of the AI Legal Assistant using CrewAI, including:
 
-Example:
+- User legal issue input
+- IPC section retrieval using RAG
+- Legal precedent search via Tavily
+- Automated complaint drafting
+- Context-aware chatbot interaction
 
-https://youtu.be/your-demo-video-link
+[![Watch Demo](https://img.youtube.com/vi/fc-xejYa1JY/0.jpg)]
+(https://youtu.be/fc-xejYa1JY)
 
 ---
 
